@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 86b6e2c79f63a9645a3a59d53487cbde
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Object001
+    100002: ready001
+    100004: ter
+    100006: //RootNode
+    100008: tire
+    100010: tire043
+    100012: Torus001
+    100014: track
+    100016: wall_1
+    100018: wall_2
+    100020: wall_2_MeshPart0
+    100022: wall_2_MeshPart1
+    400000: Object001
+    400002: ready001
+    400004: ter
+    400006: //RootNode
+    400008: tire
+    400010: tire043
+    400012: Torus001
+    400014: track
+    400016: wall_1
+    400018: wall_2
+    400020: wall_2_MeshPart0
+    400022: wall_2_MeshPart1
+    2300000: Object001
+    2300002: ready001
+    2300004: ter
+    2300006: tire
+    2300008: tire043
+    2300010: Torus001
+    2300012: track
+    2300014: wall_1
+    2300016: wall_2_MeshPart0
+    2300018: wall_2_MeshPart1
+    3300000: Object001
+    3300002: ready001
+    3300004: ter
+    3300006: tire
+    3300008: tire043
+    3300010: Torus001
+    3300012: track
+    3300014: wall_1
+    3300016: wall_2_MeshPart0
+    3300018: wall_2_MeshPart1
+    4300000: track
+    4300002: ter
+    4300004: Torus001
+    4300006: tire
+    4300008: wall_1
+    4300010: tire043
+    4300012: wall_2_MeshPart0
+    4300014: wall_2_MeshPart1
+    4300016: ready001
+    4300018: Object001
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 02 - Default
+    second: {fileID: 2100000, guid: 69239cff67f44d34a89eea20b6510069, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ROUN
+    second: {fileID: 2100000, guid: 9a58c5b6f1986bd45babab5af264f846, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TOP
+    second: {fileID: 2100000, guid: 921581eb996751c48b38138a48183a23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TR
+    second: {fileID: 2100000, guid: 9a58c5b6f1986bd45babab5af264f846, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: start
+    second: {fileID: 2100000, guid: ee827dbf40ef5eb49942ae76a294be3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tire
+    second: {fileID: 2100000, guid: 745b2fa9cf42522489e071c8f6b6f531, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall_1
+    second: {fileID: 2100000, guid: 40538b76b30a78b42bdcf2d766827be4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall_2
+    second: {fileID: 2100000, guid: dde79afd33ff1f34bb0abf6ee4572625, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall_3
+    second: {fileID: 2100000, guid: 37138017bdde77a448f72edbcce18a98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall_4
+    second: {fileID: 2100000, guid: e670a4faa51561647a6a621980e9dba9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

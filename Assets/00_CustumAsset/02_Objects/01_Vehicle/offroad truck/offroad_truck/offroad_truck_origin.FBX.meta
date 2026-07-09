@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: 3b52381648e3e3745aad1da3474a8ecc
+labels:
+- truck
+- offroad
+- off
+- road
+- race
+- dirt
+- rally
+- game
+- low
+- poly
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: suspension_LR
+    100004: suspension_LR 1
+    100006: suspension_RF
+    100008: suspension_RR
+    100010: truck_full_player
+    100012: wheel_LF
+    100014: wheel_LR
+    100016: wheel_RF
+    100018: wheel_RR
+    400000: //RootNode
+    400002: suspension_LR
+    400004: suspension_LR 1
+    400006: suspension_RF
+    400008: suspension_RR
+    400010: truck_full_player
+    400012: wheel_LF
+    400014: wheel_LR
+    400016: wheel_RF
+    400018: wheel_RR
+    2300000: suspension_LR
+    2300002: suspension_LR 1
+    2300004: suspension_RF
+    2300006: suspension_RR
+    2300008: truck_full_player
+    2300010: wheel_LF
+    2300012: wheel_LR
+    2300014: wheel_RF
+    2300016: wheel_RR
+    3300000: suspension_LR
+    3300002: suspension_LR 1
+    3300004: suspension_RF
+    3300006: suspension_RR
+    3300008: truck_full_player
+    3300010: wheel_LF
+    3300012: wheel_LR
+    3300014: wheel_RF
+    3300016: wheel_RR
+    4300000: wheel00
+    4300002: truck_full_player
+    4300004: offroad_e.x01
+    4300006: inside_spring_fnt01
+    4300008: offroad_e.x02
+    4300010: offroad_f.x01
+    4300012: inside_spring_rear01
+    4300014: offroad_f.x02
+    4300016: wheel03
+    4300018: wheel01
+    4300020: wheel02
+    4300022: suspension_LR
+    4300024: suspension_RF
+    4300026: wheel_LF
+    4300028: suspension_RR
+    4300030: wheel_RR
+    4300032: wheel_LR
+    4300034: wheel_RF
+    4300036: suspension_LR
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "556821688543",
+    "firebase_url": "https://rock-buggy-914ae.firebaseio.com",
+    "project_id": "rock-buggy-914ae",
+    "storage_bucket": "rock-buggy-914ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556821688543:android:eb941de440da7aec73796a",
+        "android_client_info": {
+          "package_name": "com.visualware.rockbuggy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "556821688543-751t6nsdvjpguncnjg0beat15b5pdsvs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.visualware.rockbuggy",
+            "certificate_hash": "dfb4082fc4013cb8af7e603bb9364746d4942e7e"
+          }
+        },
+        {
+          "client_id": "556821688543-8br1n8o0lqgjjc8pls0hqhl348ts2l1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA49ZSaioGs6kp9Iq4vWQPY8YL8fj3lcto"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "556821688543-8br1n8o0lqgjjc8pls0hqhl348ts2l1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
